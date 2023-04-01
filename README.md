@@ -10,5 +10,6 @@ This project is to practise making 2D pixel-art games by imitation.
 
 ## Tooling
 
+- Git LFS - make sure that it has been enabled for your system.
 - Unity 2021.3.22f1
 - VS Code: following [this](https://code.visualstudio.com/docs/other/unity) guide.
